@@ -66,6 +66,4 @@ if __name__ == '__main__':
 	Logger.info("average test acc: {:.3f}% \n std is: {}".format(avg_acc * 100, np.std(acc) * 100))
 	
 ```
-# T-GCN
-# T-GCN
-# T-GCN
+
