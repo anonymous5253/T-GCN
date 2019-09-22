@@ -9,7 +9,7 @@ import networkx as nx
 from sklearn.neighbors import NearestNeighbors
 
 Threshold = 5
-Print_Time_Log = False
+Print_Time_Log = True
 
 
 def create_topological_features(nodes, edges, labels, features=None, directed=True, train_set=None, data_path=None,
